@@ -1,0 +1,14 @@
+{
+	"res_code":0,
+	"res_error":"",
+	"res_body":{
+		"data" : [
+			{"id":1, "price":3999, "title":"TCL 55A950C 55英寸32核人工智能 HDR", "img":"https://img11.360buyimg.com/n7/jfs/t5572/58/2168295547/273143/c0895acf/592e9b89N008ee685.jpg"},
+			{"id":2, "price":2899, "title":"海尔模卡 （MOOKA）U55Q81J 55英寸", "img":"https://img13.360buyimg.com/n7/jfs/t14032/135/547674925/142419/b66ec84e/5a0e731cN60e0dfc2.jpg"},
+			{"id":3, "price":3799, "title":"海信（Hisense）LED55E7C 55英寸 超高", "img":"https://img14.360buyimg.com/n7/jfs/t10153/204/1268588628/277447/3eb050c4/59decf20Ndb28bb92.jpg"},
+			{"id":4, "price":5999, "title":"小米（MI）小米电视3S 65英寸 分体曲面 ", "img":"https://img14.360buyimg.com/n7/jfs/t4252/328/1463643177/249762/380ffbf7/58c26130N3cd0120f.jpg"},
+			{"id":5, "price":7999, "title":"海信（Hisense）LED55EC780UC 55英寸 ", "img":"https://img12.360buyimg.com/n7/jfs/t5788/229/6404313271/367628/68f5e1b7/5969a97fN6ff9a1d4.jpg"},
+			{"id":6, "price":2999, "title":"三星（SAMSUNG）UA65KUC30SJXXZ 65", "img":"https://img13.360buyimg.com/n7/jfs/t6766/236/2636265801/155815/3282cfc7/598d50a6N18a5d1da.jpg"}
+		]
+	}
+}
